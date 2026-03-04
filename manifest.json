@@ -42,3 +42,27 @@
     }
   }
 }
+
+
+  "data_collection_permissions": {
+    "collected": [
+      {
+        "type": "authentication_info",
+        "description": "OAuth2 access token from Raindrop.io, stored locally in browser.storage.local to keep the user logged in.",
+        "use": ["functionality"]
+      }
+    ],
+    "not_collected": [
+      "health_info",
+      "financial_and_payment_info",
+      "personal_communications",
+      "location",
+      "browsing_history",
+      "search_history",
+      "technical_and_interaction_data",
+      "crash_reports",
+      "personal_info",
+      "other_data"
+    ]
+  }
+}
