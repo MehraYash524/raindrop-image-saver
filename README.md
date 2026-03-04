@@ -77,7 +77,8 @@ raindrop-extension/
 
 ## Privacy
 
-This extension stores only your Raindrop.io OAuth token, locally in your browser. No personal data is collected or transmitted to any third party other than Raindrop.io. See [Privacy Policy](YOUR_PRIVACY_POLICY_URL) for details.
+This extension stores only your Raindrop.io OAuth token, locally in your browser. No personal data is collected or transmitted to any third party other than Raindrop.io. See [Privacy Policy](https://mehrayash524.github.io/raindrop-image-saver/
+) for details.
 
 ---
 
