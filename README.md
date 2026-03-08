@@ -23,7 +23,7 @@ Inspired by the Pinterest Save Button extension — but for Raindrop.
 ## Installation
 
 ### From Firefox Add-ons Store
-https://addons.mozilla.org/addon/raindrop-image-saver/
+[https://addons.mozilla.org/addon/raindrop-image-saver/](https://addons.mozilla.org/addon/raindrop-image-saver/)
 
 ### Manual Installation (Developer Mode)
 1. Download or clone this repository
